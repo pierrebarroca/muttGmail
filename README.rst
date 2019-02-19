@@ -21,7 +21,14 @@ Example:
 .. code-block:: bash
 
    python muttGmail pi.barroca "Pierre Barroca" --f ~./mutt/passwd.pgp
-   
+Create GPG key:
+
+.. code::  bash
+
+  gpg --gen-key
+
+Follow instructions and set user email equal to the google mail.
+
 Installation
 ------------
 
