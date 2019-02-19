@@ -3,6 +3,8 @@ muttGmail
 
 Command line tool to configure your Gmail on mutt with pgp encryted password.
 
+Inspired by https://pthree.org/2012/01/07/encrypted-mutt-imap-smtp-passwords/
+
 Usage
 -----
 
