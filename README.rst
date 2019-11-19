@@ -29,7 +29,7 @@ Follow instructions and set user email equal to the google mail.
 
 .. code-block:: bash
 
-   python muttGmail pi.barroca "Pierre Barroca" --f ~./mutt/passwd.pgp
+   python muttGmail john.doe "John Doe" --f ~./mutt/passwd.pgp
 Create GPG key:
 
 Launch mutt with the passphrase set for your gpg key pair and it's done!
